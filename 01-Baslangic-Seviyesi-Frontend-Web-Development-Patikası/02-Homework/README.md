@@ -1,0 +1,1 @@
+# PATİKA.DEV eğitimlerinde verilen ödevler

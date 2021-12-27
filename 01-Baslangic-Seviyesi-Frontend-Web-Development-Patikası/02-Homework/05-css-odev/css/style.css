@@ -1,0 +1,20 @@
+li {
+    list-style-position: inside;
+}
+
+.kimlikbaslik {
+    color: blueviolet;
+}
+
+.anabaslik {
+    color: brown;
+}
+
+body {
+    text-align: center;
+    background-color: #F9ED69;
+}
+
+.urunbaslik {
+    text-align: center;
+}

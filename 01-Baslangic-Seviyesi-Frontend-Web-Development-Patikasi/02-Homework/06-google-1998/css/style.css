@@ -1,0 +1,40 @@
+body {
+    text-align: center;
+}
+
+.boxSearch {
+    background-color:#FFF8F3;
+    height: 60px;
+    width: 1210px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.boxSpecial {
+    background-color:#A3E4DB;
+    height: 76px;
+    width: 446px;
+    float: left;
+}
+
+.boxHelp{
+    background-color:#93FFD8
+    height: 76px;
+    width: 318px;
+    float: left;
+}
+
+.boxGet {
+    background-color:#A3DA8D
+    height: 76px;
+    width: 446px;
+    float: left; 
+
+}
+
+.anadiv {
+    height: 140px;
+    width: 1210px;
+    margin: 0 auto 0 auto;
+
+}

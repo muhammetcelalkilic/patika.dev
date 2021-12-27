@@ -1,40 +1,41 @@
 body {
     text-align: center;
 }
-
 .boxSearch {
-    background-color:#FFF8F3;
-    height: 60px;
+    margin: 0 auto 5px auto;
     width: 1210px;
-    margin-left: auto;
-    margin-right: auto;
+    height: 65px;
+    background-color: #FEFDCA;
 }
-
-.boxSpecial {
-    background-color:#A3E4DB;
-    height: 76px;
-    width: 446px;
-    float: left;
-}
-
-.boxHelp{
-    background-color:#93FFD8
-    height: 76px;
-    width: 318px;
-    float: left;
-}
-
-.boxGet {
-    background-color:#A3DA8D
-    height: 76px;
-    width: 446px;
-    float: left; 
-
-}
-
 .anadiv {
-    height: 140px;
+    margin: 0 auto 5px auto;
     width: 1210px;
-    margin: 0 auto 0 auto;
+  
+
+}
+.boxSpecial {
+    width: 441px;
+    height: 64px;
+    background-color: #E0F9B5;
+    float: left;
+    font-size:large;
+    margin-right: 5px;
+    padding: 6px 0 6px 0;
+}
+.boxHelp {
+    width: 318px;
+    height: 62px;
+    background-color: #A5DEE5;
+    float: left;
+    font-size: small;
+    margin-right: 5px;
+    padding: 7px 0 7px 0;
+}
+.boxGet {
+    width: 441px;
+    height: 76px;
+    background-color: #FFCFDF;
+    float: left;
+    font-size:small;
 
 }

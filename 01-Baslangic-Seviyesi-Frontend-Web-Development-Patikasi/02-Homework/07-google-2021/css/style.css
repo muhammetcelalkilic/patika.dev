@@ -1,5 +1,7 @@
 body {
     background-color: #202124;
+    margin: 0;
+
 }
 
 .boxSettings {
@@ -15,7 +17,7 @@ body {
     float: right;
 }
 
-a {
+.boxSettings a {
     color: white;
     text-decoration: none;
 }
@@ -24,8 +26,45 @@ a:hover {
 }
 .logo-alani {
     text-align: center;
-    height: 190px;
+    height: 100px;
 }
 .logo {
-    margin-top: 90px;
+    margin-top: 190px;
+
+}
+
+.searchAlani {
+  float: left;
+  padding: 12px 6px 0px 6px;
+ 
+}
+.searchAnaDiv {
+    margin: auto;
+    height: 48px;
+    border: 1px solid #e7dede;
+    width: 582px;
+    border-radius: 25px;
+}
+.buton {
+    background-color: #303134;
+    border-radius: 5px;
+    border:none;
+    width: auto;
+    height: 36px;
+    color: white;
+    padding: 0 15px 0 15px;
+    margin: 14px 4px 14px 4px
+    
+}
+.altmenü {
+    background-color: #171717;
+    height: 33px;
+    color: #888888;
+    padding-left: 20px;
+    padding-top: 15px;
+
+}
+
+.altmenüsag {
+    float: right;
 }

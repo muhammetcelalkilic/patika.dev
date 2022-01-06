@@ -2,7 +2,7 @@
 
 Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
 
-<center>
+<code>
 
 [16,21,11,8,12,22]
 
@@ -20,7 +20,7 @@ Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
 
 [8,11,12,16,21,22]
 
-</center>
+</code>
 
 Big-O gösterimini yazınız.
 
